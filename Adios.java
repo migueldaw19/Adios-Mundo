@@ -8,7 +8,7 @@ public class Adios {
 		String verde = "\033[32m";
 		String reset = "\033[0m";
 		System.out.println(amarillo + "Adios mundo!!!" + reset);
-		System.out.println(verde + "Pero...Volveré" + reset);
+		System.out.println(verde + "Pera...Volveré" + reset);
 	}
 
 
