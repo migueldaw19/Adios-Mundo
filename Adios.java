@@ -6,7 +6,6 @@ public class Adios {
 
 		String amarillo = "\033[33m";
 		String verde = "\033[32m";
-		String reset = "\033[0m";
 		System.out.println(amarillo + "Adios mundo!!!");
 		System.out.println(verde + "Pero...Volveré");
 	}
